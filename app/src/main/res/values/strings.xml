@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ozon Start</string>
+    <string name="txtMainActivity">Главный экран</string>
 </resources>
