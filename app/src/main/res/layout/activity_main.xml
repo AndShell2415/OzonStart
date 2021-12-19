@@ -5,9 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E86464"
-    tools:context=".MainActivity">
+    tools:context=".presentation.MainActivity">
 
     <TextView
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/txtMainActivity"
